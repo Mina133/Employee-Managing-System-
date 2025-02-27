@@ -1,12 +1,12 @@
-# Employee Management System
+#Employee Management System
 
-## Overview
+##Overview
 
 The Employee Management System is a full-stack web application built using Django (backend) and React (frontend). It provides an interface for managing companies, departments, and employees. The system allows an admin user to perform CRUD (Create, Read, Update, Delete) operations on these entities after logging in.
 
-## Features
+##Features
 
-### Backend (Django)
+###Backend (Django)
 - Models:
   - **User Accounts** (Admin, Employee)
   - **Company** (Company name, number of departments, employees)
